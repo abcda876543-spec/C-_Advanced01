@@ -16,6 +16,16 @@
 
             #endregion
 
+            #region question 2
+
+            Container<int> c = new Container<int>();
+
+            c.Add(10);
+
+            Console.WriteLine(c.Get());
+
+            #endregion
+
 
 
 
