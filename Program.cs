@@ -26,6 +26,13 @@
 
             #endregion
 
+            #region question 3
+
+            //Multiple type parameters allow a generic class to work with two or more different data types
+
+
+            #endregion
+
 
 
 
